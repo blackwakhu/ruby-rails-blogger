@@ -1,1 +1,2 @@
 generate controller => bin/rails generate controller users 
+generate model => bin/rails generate model users x:dtype y:dtype
