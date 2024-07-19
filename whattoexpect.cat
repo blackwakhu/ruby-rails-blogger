@@ -1,3 +1,4 @@
 generate controller => bin/rails generate controller users 
 generate model => bin/rails generate model users x:dtype y:dtype
 migration => bin/rails db:migrate
+display generated urls =>/* in the routes.rb file add resource :users */ bin/rails routes
